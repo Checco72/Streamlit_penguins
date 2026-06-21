@@ -7,6 +7,8 @@ The deployed web app is live at https://dp-penguins.herokuapp.com/---> pagina ri
 Seconda modifica di test
 Secondo test con simulazione collaboratore!
 Terzo test con simulazione collaboratore!
+Test reset_admend commit
+simenticato 1uesto---> !
 
 This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
 
